@@ -11,8 +11,8 @@ password = 'richardyao'
 x_model = 'x_salesforce_account'
 db_config = {
     'user': 'root',
-    'password': 'tvu1p2ack3',
-    'host': '10.12.22.100',
+    'password': 'admin',
+    'host': 'localhost',
     'database': 'tp',
 }
 
